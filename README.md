@@ -1,6 +1,4 @@
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D1D44EGNM)
-
-# seln_drugsystem
+# bds_drugsystem
 Drug Sytem for FiveM
 
 - Grow weed in chosen place
