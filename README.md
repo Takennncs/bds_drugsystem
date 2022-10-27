@@ -1,6 +1,8 @@
 # bds_drugsystem
 Drug Sytem for FiveM
 
+- Discord takenncs#1471
+- Discord Server = https://discord.gg/tCUxhgzqFd
 - Grow weed in chosen place
 - Cook Meth in a Journey Van ( Breaking Bad Style ) with chimical ingredients and by choosing which action to do when, but caution, a wrong move could cost your batch, or your car. 
 - Make Coke at a chosen place with chimical ingredients and by choosing which action to do when, but caution, a wrong move could cost your life.
